@@ -1,5 +1,17 @@
 header{
+
     background: #cccccc;
+    padding:20px 0;
+}
+.caixa{
+    position: relative;
+    width: 940px; /*largura da imagem*/
+    margin: 0 auto; /*auto se enquadra automaticamente*/
+}
+nav{
+    position:absolute;
+    top:110px;
+    right: 0;
 }
 nav li{
     display: inline;
